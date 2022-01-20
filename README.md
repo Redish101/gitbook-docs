@@ -11,7 +11,7 @@ Gitbook是一个基于node.js的静态站点生成器。\
 
 ## 如何贡献
 
-将写好的文档发送到我的邮箱：[jiayunluo@outlook.com](mailto:jiayunluo@outlook.com)
+在我们的[储存库](https://github.com/redish101/gitbook-docs)提交PR。
 
 ## 贡献者
 
